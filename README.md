@@ -1,6 +1,6 @@
 # ChatDrill Playwright Automation
 
-End-to-end test automation for the [ChatDrill](https://app.chatdrill.com/) admin panel, built with **Playwright** and **TypeScript**. The suite performs data-driven bulk creation of **Leads** and **AI Knowledge articles** from CSV files and generates an HTML report for every run.
+End-to-end test automation for the [ChatDrill](https://app.chatdrill.com/) admin panel, built with **Playwright** and **javaScript**. The suite performs data-driven bulk creation of **Leads** and **AI Knowledge articles** from CSV files and generates an HTML report for every run.
 
 ## Purpose
 
