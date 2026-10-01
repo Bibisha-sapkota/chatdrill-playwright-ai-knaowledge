@@ -1,0 +1,21 @@
+{
+  "name": "chatdrill-lead",
+  "version": "1.0.0",
+  "description": "Playwright automation to add 50 leads from CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "list": "playwright test --list",
+    "report": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3",
+    "csv-parse": "^7.0.3",
+    "dotenv": "^18.0.5"
+  }
+}
