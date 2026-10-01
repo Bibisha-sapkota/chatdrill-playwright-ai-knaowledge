@@ -78,7 +78,7 @@ npx playwright show-report
 - **HTML report**: generated in `playwright-report/` after every run
 - **Screenshots, video and trace**: kept automatically for failed tests in `test-results/`
 - **Trace viewer**: `npx playwright show-trace test-results/<test-folder>/trace.zip`
-- **Console log**: progress is printed per record, e.g. `✅ [1/10] Added: Refund policy (Billing)`
+- **Console log**: progress is printed per record, e.g. ` [1/10] Added: Refund policy (Billing)`
 
 ## Design Notes
 
